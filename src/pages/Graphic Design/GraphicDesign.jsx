@@ -1,5 +1,5 @@
 import OrangeDiv from "../../components/OrangeDiv";
-import GraphicDesignCards from "../../components/graphicDesignCards";
+import GraphicDesignCards from "../../components/GraphicDesignCards";
 import { AppDesignLink, WebDesignLink } from "../../components/home";
 import jsonData from "../../graphicData.json";
 import styled from "styled-components";

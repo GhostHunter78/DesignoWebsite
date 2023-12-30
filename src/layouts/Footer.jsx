@@ -88,7 +88,7 @@ const OrangeDiv = styled.div`
   border-radius: 15px;
   background: #e7816b;
   padding: 64px 24px;
-  background-image: url("./src/assets/mobile/home page - three circles for footer.png");
+  background-image: url("/homePage-threeCirclesForFooter.png");
   background-repeat: no-repeat;
   background-size: 100%;
   position: absolute;

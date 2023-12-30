@@ -39,7 +39,7 @@ const AppDesignDiv = styled.div`
   width: 327px;
   padding: 91px 36px;
   border-radius: 15px;
-  background-image: url("./src/assets/mobile/home page - app design img.png");
+  background-image: url("/homePage-appDesignImg.png");
   background-size: 100%;
   background-repeat: no-repeat;
 `;

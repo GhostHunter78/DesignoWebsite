@@ -20,7 +20,7 @@ const Main = styled.div`
   width: 100%;
   background: #e7816b;
   padding: 105px 24px;
-  background-image: url("./src/assets/mobile/design pages - orange div circles.png");
+  background-image: url("/designPages-orangeDivCircles.png");
   background-repeat: no-repeat;
   background-size: 100%;
 `;

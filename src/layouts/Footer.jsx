@@ -36,10 +36,7 @@ const Footer = () => {
         <Button onClick={handleButtonClick}>get in touch</Button>
       </OrangeDiv>
       <BlackDiv>
-        <img
-          src="./src/assets/mobile/logo light.png"
-          onClick={handleLogoClick}
-        />
+        <img src="/logoLight.png" onClick={handleLogoClick} />
         <GrayLine></GrayLine>
         <NavList>
           <ListItems onClick={handleCompanyClick}>OUR COMPANY</ListItems>

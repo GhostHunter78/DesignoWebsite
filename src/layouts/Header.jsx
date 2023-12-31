@@ -38,7 +38,7 @@ const Header = () => {
   return (
     <HeaderDiv>
       <img
-        src="/src/assets/mobile/Logo-large.png"
+        src="/Logo-large.png"
         alt="Logo"
         onClick={() => {
           setIsHamburgerVisible(true);
